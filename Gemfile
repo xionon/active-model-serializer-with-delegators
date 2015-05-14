@@ -43,4 +43,4 @@ group :development, :test do
   gem 'spring'
 end
 
-gem 'active_model_serializers'
+gem 'active_model_serializers', github: 'rails-api/active_model_serializers'
